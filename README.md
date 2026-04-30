@@ -73,12 +73,12 @@ STATUS="Building. Breaking. Fixing. Repeat."
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaatxog&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaatxog&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh928k&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh928k&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jaatxog&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" />
+  <img src="https://streak-stats.demolab.com?user=ganesh928k&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" />
 </div>
 
 ---
@@ -140,7 +140,7 @@ $ systemctl status career
 
 [![Gmail](https://img.shields.io/badge/gjat928@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gjat928@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/ganesh928-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh928)
-[![GitHub](https://img.shields.io/badge/jaatxog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaatxog)
+[![GitHub](https://img.shields.io/badge/ganesh928k-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh928k)
 [![Phone](https://img.shields.io/badge/+91--8696383333-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918696383333)
 
 </div>
@@ -150,14 +150,14 @@ $ systemctl status career
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jaatxog/jaatxog/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ganesh928k/ganesh928k/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=jaatxog&label=Profile+Views&color=00FF41&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=ganesh928k&label=Profile+Views&color=00FF41&style=flat-square)
 
 ```bash
 $ echo "Thanks for visiting. Keep building. 🚀"
