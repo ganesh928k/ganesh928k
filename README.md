@@ -138,10 +138,9 @@ $ systemctl status career
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/gjat928@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gjat928@gmail.com)
+[![Gmail](https://img.shields.io/badge/gjat928@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganesh928k@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/ganesh928-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh928)
 [![GitHub](https://img.shields.io/badge/ganesh928k-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh928k)
-[![Phone](https://img.shields.io/badge/+91--8696383333-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918696383333)
 
 </div>
 
