@@ -277,15 +277,7 @@ drwxr-xr-x  2019-2022       Bachelor of Science
 
 </div>
 
----
 
-## 📌 Pinned Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ganesh928k&repo=linux-from-scratch&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/ganesh928k)
-
-</div>
 
 ---
 
@@ -299,7 +291,6 @@ drwxr-xr-x  2019-2022       Bachelor of Science
 
 ![Snake animation](https://raw.githubusercontent.com/ganesh928k/ganesh928k/output/github-contribution-grid-snake.svg)
 
-<sub>If the snake doesn't show, the GitHub Action might need to be set up. See instructions below.</sub>
 
 ---
 
