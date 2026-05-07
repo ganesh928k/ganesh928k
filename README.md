@@ -296,7 +296,6 @@ drwxr-xr-x  2019-2022       Bachelor of Science
 
 ```bash
 $ echo "Thanks for visiting! Let's build something amazing together 🚀"
-$ uptime
 ```
 
 **💬 Open to opportunities • 🤝 Let's collaborate • 📧 Always happy to connect**
