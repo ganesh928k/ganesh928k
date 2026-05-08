@@ -153,7 +153,7 @@ EOF
 ║  🎯 Oracle Cloud Infrastructure Foundations Associate        ║
 ║     OCI Architecture & Services                              ║
 ║                                                               ║
-║  🎖️  B.Voc IT/Computing Skills - CGPA 9.81                   ║
+║  🎖️  B.Voc IT/Computing Skills                   ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
