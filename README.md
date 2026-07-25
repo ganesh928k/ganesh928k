@@ -106,10 +106,10 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganesh928k&theme=github_dark&hide_border=true" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ganesh928k&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganesh928k&theme=github_dark&hide_border=true" />
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganesh928k&theme=github_dark&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ganesh928k&theme=github_dark&hide_border=true&utcOffset=5.5" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganesh928k&theme=github_dark&hide_border=true" />
 </div>
 
 ---
