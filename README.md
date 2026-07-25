@@ -87,8 +87,8 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ganesh928k&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh928k&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=ganesh928k&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ganesh928k&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" />
 </div>
 
 <div align="center">
@@ -104,7 +104,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganesh928k&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ganesh928k&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=4" />
 </div>
 
 ---
