@@ -9,12 +9,12 @@
  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=100&lines=DevOps+Engineer+%40+Lynx+Solutions;RHCE+%7C+RHCSA+%7C+AWS+Solutions+Architect+%7C+OCI;Multi-Cloud+Fleet+Architect+%E2%80%A2+61+Servers+%E2%80%A2+0+Alerts;Site+Reliability+%26+Automation+%E2%80%A2+Docker+%26+Ansible" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=100&lines=DevOps+Engineer+%40+Lynx+Solutions;RHCE+%7C+RHCSA+%7C+AWS+Solutions+Architect+%7C+OCI;Multi-Cloud+Fleet+Architect+%E2%80%A2+60%2B+Servers+%E2%80%A2+Zero+Alerts;Site+Reliability+%26+Automation+%E2%80%A2+Docker+%26+Ansible" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Linux%20%7C%20Cloud%20%7C%20DevOps%20%7C%20SRE%20%7C%20Observability-00FF41?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Experience-3.5%2B%20Years-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fleet-61%20Active%20Nodes%20%7C%200%20Alerts-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fleet-60%2B%20Active%20Nodes%20%7C%20Zero%20Alerts-00D9FF?style=for-the-badge" />
   <a href="https://ganeshchoudhary.me"><img src="https://img.shields.io/badge/Portfolio-ganeshchoudhary.me-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
@@ -29,7 +29,7 @@
 <td width="50%" valign="top">
 
 ### 🔭 Who I Am
-- 🏢 **DevOps Engineer** @ Lynx Solutions 
+- 🏢 **DevOps Engineer** @ Lynx Solutions (Ex-Avyukta)
 - 📍 Jaipur, Rajasthan, India (Remote Available)
 - 🎓 MCA – Cloud Computing @ Manipal University (Final Year)
 - 🗣️ **Languages:** English (Professional), Hindi (Native)
@@ -45,12 +45,12 @@
 <td width="50%" valign="top">
 
 ### 💡 What I Do
-- 🌐 Scale & manage **61 active multi-cloud servers** (35 Hetzner ARM64/AMD + 26 DigitalOcean)
-- 📊 Centralize **observability** (Prometheus, Grafana 9 dashboards, Loki) with 0 firing alerts
-- 🐳 Containerize legacy monoliths via **Docker Compose** (<35 min cutover, 100% data parity)
-- ⚡ High-speed **in-memory database streaming pipelines** (33–35 GB raw SQL)
-- 🤖 Automate infrastructure & access using **Ansible & Python CLI tools** (`manage_access`)
-- 🛡️ High-stakes incident response & Linux tuning (slashed load 97.5%, rescued 224 GB storage)
+- 🌐 Scale & manage **multi-cloud Linux infrastructure** (60+ active production servers)
+- 📊 Centralize **observability** (Prometheus, Grafana 9 dashboards, Loki) with zero firing alerts
+- 🐳 Containerize enterprise monoliths via **Docker Compose** (<35 min cutover, 100% data parity)
+- ⚡ High-speed **in-memory database streaming pipelines** (30+ GB live databases)
+- 🤖 Automate infrastructure & access using **Ansible playbooks & custom Python CLI tools**
+- 🛡️ High-stakes incident response & Linux kernel tuning (97.5% load reduction, storage recovery)
 
 ### 📊 Daily Stack
 `Linux` &nbsp; `Hetzner` &nbsp; `DigitalOcean` &nbsp; `AWS` &nbsp; `Docker` &nbsp; `Ansible` &nbsp; `Prometheus` &nbsp; `Grafana` &nbsp; `MariaDB`
@@ -127,14 +127,14 @@
 <summary>🟢 &nbsp;<b>DevOps Engineer</b> &nbsp;·&nbsp; Aug 2026 – Present</summary>
 <br/>
 <ul>
-<li>🌐 Scaled fleet from 0 to <b>61 active multi-cloud servers</b> in 29 days (35 Hetzner ARM64/AMD + 26 DigitalOcean) hosting 160+ live ERP sites</li>
-<li>📊 Built centralized observability (<b>Prometheus, Grafana 9-dashboard suite, Loki, Promtail</b>) driving alerts from 24 to <b>0 firing alerts fleet-wide</b></li>
-<li>🐳 Containerized legacy Frappe v11 monoliths into <b>10-container Docker Compose</b> fleets on Hetzner ARM64 (&lt;35 min cutover, 100% table parity)</li>
-<li>⚡ Engineered direct <b>in-memory database streaming pipelines</b> (33–35 GB raw SQL) bypassing intermediate disk bloat</li>
-<li>🛠️ Developed <code>grant_developer_access.py</code> & <code>manage_access</code> CLI tools with automated ED25519 generation & zero-lockout tests</li>
-<li>🛡️ Rescued production nodes from severe server lockups (load 173 → 4.27) and recovered <b>224 GB storage</b> on locked DB nodes</li>
-<li>💰 Executed FinOps audits saving <b>$1,535+/year</b> via zombie server decommissioning and storage reclamation (+48 GB purged)</li>
-<li>🔐 Resolved cryptographic SSL/TLS production defects (<code>ERR_SSL_PROTOCOL_ERROR</code>) via dynamic ECDH curve auto-negotiation and modern cipher tuning</li>
+<li>🌐 Scaled and maintained multi-cloud infrastructure across <b>60+ active production Linux nodes</b> supporting multi-tenant enterprise client sites</li>
+<li>📊 Built centralized observability platform (<b>Prometheus, Grafana 9-dashboard suite, Loki, Promtail</b>) driving alert states down to <b>zero firing alerts fleet-wide</b></li>
+<li>🐳 Containerized monolithic enterprise workloads into isolated <b>Docker Compose microservice fleets</b> on ARM64 architecture with zero data loss</li>
+<li>⚡ Engineered direct <b>in-memory database streaming pipelines</b> (30+ GB raw SQL), eliminating intermediate disk buffer bottlenecks</li>
+<li>🛠️ Developed automated <b>role-based developer access engines</b> with ED25519 key generation and zero-lockout connection validation</li>
+<li>🛡️ Rescued mission-critical production servers from severe lockups, reducing system load by <b>97.5%</b> and recovering <b>200+ GB of saturated storage</b> with zero downtime</li>
+<li>💰 Conducted multi-cloud FinOps infrastructure audits across 70 instances, optimizing cloud expenditure and reclaiming dangling storage bloat</li>
+<li>🔐 Resolved complex cryptographic SSL/TLS production defects, ensuring modern cipher security and seamless HTTPS domain availability</li>
 </ul>
 </details>
 
@@ -188,9 +188,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 📊 **Enterprise Multi-Cloud Observability Suite** | Centralized Prometheus, Alertmanager, Grafana (9 dashboards), Loki & Promtail across 61 cloud servers — driving alert count from 24 to 0 | `Prometheus` `Grafana` `Loki` `Alertmanager` `Python` |
-| 🐳 **Legacy Monolith Docker Containerization** | 10-container Docker Compose architecture on Hetzner ARM64 with streamed database ingestion, Let's Encrypt SSL, and multi-tenant memory shielding | `Docker` `Docker Compose` `MariaDB` `Nginx` `Let's Encrypt` |
-| 🛠️ **Universal Developer Access Engine** | Automated CLI engine for role-based SSH access with automated ED25519 generation, DNS routing, and zero-lockout connection testing | `Python` `SSH` `ED25519` `Linux` |
+| 📊 **Enterprise Multi-Cloud Observability Suite** | Centralized Prometheus, Alertmanager, Grafana (9 dashboards), Loki & Promtail across 60+ cloud servers — driving alert count to zero firing alerts | `Prometheus` `Grafana` `Loki` `Alertmanager` `Python` |
+| 🐳 **Legacy Monolith Docker Containerization** | Multi-container Docker Compose architecture on ARM64 with direct streamed database ingestion, automated SSL ingress, and multi-tenant memory shielding | `Docker` `Docker Compose` `MariaDB` `Nginx` `Let's Encrypt` |
+| 🛠️ **Universal Developer Access Engine** | Automated role-based access engine featuring automated ED25519 generation, DNS routing, and zero-lockout connection validation | `Python` `SSH` `ED25519` `Linux` |
 | 📞 **VICIdial Cluster Deployment (2023 – 2026)** | Multi-node production contact center — distributed Asterisk servers, shared MySQL backends, load-balanced web interfaces | `Asterisk` `VICIdial` `MySQL` `Linux` |
 | 🐧 **Linux From Scratch (LFS)** | Built a complete Linux OS from source — kernel compilation, boot process, manual package management | `C` `Linux Kernel` `Bash` `Grub2` |
 
@@ -203,7 +203,6 @@
 | 🎓 **MCA – Cloud Computing** | Manipal University Jaipur | 2025 – 2027 | **Final Year** |
 | 🏅 **B.Voc – IT / Computing Skills** | Bharatiya Skill Development University | 2022 – 2025 | **CGPA: 9.81 / 10** |
 | 📘 **Bachelor of Science** | Singhaniya University | 2019 – 2022 | Completed |
-| 📗 **Senior Secondary (RBSE)** | — | 2016 – 2018 | Completed |
 
 ---
 
