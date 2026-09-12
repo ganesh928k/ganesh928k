@@ -29,7 +29,7 @@
 <td width="50%" valign="top">
 
 ### 🔭 Who I Am
-- 🏢 **DevOps Engineer** @ Lynx Solutions (Ex-Avyukta)
+- 🏢 **DevOps Engineer** @ Lynx Solutions 
 - 📍 Jaipur, Rajasthan, India (Remote Available)
 - 🎓 MCA – Cloud Computing @ Manipal University (Final Year)
 - 🗣️ **Languages:** English (Professional), Hindi (Native)
