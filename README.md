@@ -9,12 +9,12 @@
  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=100&lines=DevOps+Engineer+%40+Lynx+Solutions;RHCE+%7C+RHCSA+%7C+AWS+Solutions+Architect+%7C+OCI;Multi-Cloud+Fleet+Architect+%E2%80%A2+60%2B+Servers+%E2%80%A2+Zero+Alerts;Observability+%26+Reliability+Engineer+%E2%80%A2+Docker+%26+Ansible" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=100&lines=DevOps+Engineer+%40+Lynx+Solutions;RHCE+%7C+RHCSA+%7C+AWS+Solutions+Architect+%7C+OCI;Multi-Cloud+Fleet+Architect+%E2%80%A2+61+Servers+%E2%80%A2+0+Alerts;Site+Reliability+%26+Automation+%E2%80%A2+Docker+%26+Ansible" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Linux%20%7C%20Cloud%20%7C%20DevOps%20%7C%20SRE%20%7C%20Observability-00FF41?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Experience-3.5%2B%20Years-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fleet-60%2B%20Production%20Nodes-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fleet-61%20Active%20Nodes%20%7C%200%20Alerts-00D9FF?style=for-the-badge" />
   <a href="https://ganeshchoudhary.me"><img src="https://img.shields.io/badge/Portfolio-ganeshchoudhary.me-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
@@ -32,6 +32,7 @@
 - 🏢 **DevOps Engineer** @ Lynx Solutions (Ex-Avyukta)
 - 📍 Jaipur, Rajasthan, India (Remote Available)
 - 🎓 MCA – Cloud Computing @ Manipal University (Final Year)
+- 🗣️ **Languages:** English (Professional), Hindi (Native)
 - 🌐 [ganeshchoudhary.me](https://ganeshchoudhary.me)
 
 ### 🏆 Certifications
@@ -44,11 +45,12 @@
 <td width="50%" valign="top">
 
 ### 💡 What I Do
-- 🌐 Scale & manage **60+ multi-cloud servers** (Hetzner ARM64 & DigitalOcean)
+- 🌐 Scale & manage **61 active multi-cloud servers** (35 Hetzner ARM64/AMD + 26 DigitalOcean)
 - 📊 Centralize **observability** (Prometheus, Grafana 9 dashboards, Loki) with 0 firing alerts
-- 🐳 Containerize legacy stacks via **Docker Compose** with zero downtime
-- 🤖 Automate infrastructure & access using **Ansible & Python CLI tools**
-- 🐧 Deep **Linux system engineering**, security hardening & telephony (Asterisk)
+- 🐳 Containerize legacy monoliths via **Docker Compose** (<35 min cutover, 100% data parity)
+- ⚡ High-speed **in-memory database streaming pipelines** (33–35 GB raw SQL)
+- 🤖 Automate infrastructure & access using **Ansible & Python CLI tools** (`manage_access`)
+- 🛡️ High-stakes incident response & Linux tuning (slashed load 97.5%, rescued 224 GB storage)
 
 ### 📊 Daily Stack
 `Linux` &nbsp; `Hetzner` &nbsp; `DigitalOcean` &nbsp; `AWS` &nbsp; `Docker` &nbsp; `Ansible` &nbsp; `Prometheus` &nbsp; `Grafana` &nbsp; `MariaDB`
@@ -68,7 +70,7 @@
 ![Hetzner Cloud](https://img.shields.io/badge/Hetzner_Cloud-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 📊 Observability & Telemetry
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Alertmanager](https://img.shields.io/badge/Alertmanager-FFA500?style=for-the-badge&logo=prometheus&logoColor=white) ![Loki](https://img.shields.io/badge/Grafana%20Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Alertmanager](https://img.shields.io/badge/Alertmanager-FFA500?style=for-the-badge&logo=prometheus&logoColor=white) ![Loki](https://img.shields.io/badge/Grafana%20Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Promtail](https://img.shields.io/badge/Promtail-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🤖 DevOps, Containers & Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -87,16 +89,12 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=ganesh928k&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ganesh928k&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=ganesh928k&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ganesh928k&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ganesh928k&theme=react&hide_border=true&background=0D1117&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganesh928k&bg_color=0d1117&color=00ff41&line=00d9ff&point=ff6b35&area=true&hide_border=true" />
 </div>
 
 ---
@@ -131,18 +129,19 @@
 <ul>
 <li>🌐 Scaled fleet from 0 to <b>61 active multi-cloud servers</b> in 29 days (35 Hetzner ARM64/AMD + 26 DigitalOcean) hosting 160+ live ERP sites</li>
 <li>📊 Built centralized observability (<b>Prometheus, Grafana 9-dashboard suite, Loki, Promtail</b>) driving alerts from 24 to <b>0 firing alerts fleet-wide</b></li>
-<li>🐳 Containerized legacy Frappe v11 monoliths into <b>10-container Docker Compose</b> fleets on Hetzner ARM64 (<35 min cutover, 100% table parity)</li>
+<li>🐳 Containerized legacy Frappe v11 monoliths into <b>10-container Docker Compose</b> fleets on Hetzner ARM64 (&lt;35 min cutover, 100% table parity)</li>
 <li>⚡ Engineered direct <b>in-memory database streaming pipelines</b> (33–35 GB raw SQL) bypassing intermediate disk bloat</li>
 <li>🛠️ Developed <code>grant_developer_access.py</code> & <code>manage_access</code> CLI tools with automated ED25519 generation & zero-lockout tests</li>
 <li>🛡️ Rescued production nodes from severe server lockups (load 173 → 4.27) and recovered <b>224 GB storage</b> on locked DB nodes</li>
 <li>💰 Executed FinOps audits saving <b>$1,535+/year</b> via zombie server decommissioning and storage reclamation (+48 GB purged)</li>
+<li>🔐 Resolved cryptographic SSL/TLS production defects (<code>ERR_SSL_PROTOCOL_ERROR</code>) via dynamic ECDH curve auto-negotiation and modern cipher tuning</li>
 </ul>
 </details>
 
 <br/>
 
 ### 🏢 Avyukta Intellicall Consulting Pvt. Ltd. &nbsp;·&nbsp; Jaipur, Rajasthan, India
-> **Jan 2023 – Aug 2026 &nbsp;|&nbsp; 3.5+ Years &nbsp;|&nbsp; Promoted twice**
+> **Jan 2023 – Aug 2026 &nbsp;|&nbsp; 3.5+ Years &nbsp;|&nbsp; Promoted twice (3 successive roles)**
 
 <details>
 <summary>🟢 &nbsp;<b>L-2 DevOps Engineer / Infrastructure Lead</b> &nbsp;·&nbsp; Feb 2026 – Aug 2026</summary>
