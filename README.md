@@ -9,12 +9,12 @@
  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=100&lines=L-2+DevOps+Engineer+%40+Avyukta+Intellicall;RHCE+%7C+RHCSA+%7C+AWS+Solutions+Architect+%7C+OCI;VoIP+Infrastructure+Expert+%E2%80%A2+Cloud+%26+Automation+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=100&lines=DevOps+Engineer+%40+Lynx+Solutions;RHCE+%7C+RHCSA+%7C+AWS+Solutions+Architect+%7C+OCI;Multi-Cloud+Fleet+Architect+%E2%80%A2+60%2B+Servers+%E2%80%A2+Zero+Alerts;Observability+%26+Reliability+Engineer+%E2%80%A2+Docker+%26+Ansible" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Linux%20%7C%20VoIP%20%7C%20Cloud%20%7C%20DevOps-00FF41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20%26%20Breaking-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Linux%20%7C%20Cloud%20%7C%20DevOps%20%7C%20SRE%20%7C%20Observability-00FF41?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-3.5%2B%20Years-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fleet-60%2B%20Production%20Nodes-00D9FF?style=for-the-badge" />
   <a href="https://ganeshchoudhary.me"><img src="https://img.shields.io/badge/Portfolio-ganeshchoudhary.me-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
@@ -29,9 +29,9 @@
 <td width="50%" valign="top">
 
 ### 🔭 Who I Am
-- 🏢 **L-2 DevOps Engineer** @ Avyukta Intellicall
-- 📍 Jaipur, Rajasthan, India
-- 🎓 MCA – Cloud Computing @ Manipal University
+- 🏢 **DevOps Engineer** @ Lynx Solutions (Ex-Avyukta)
+- 📍 Jaipur, Rajasthan, India (Remote Available)
+- 🎓 MCA – Cloud Computing @ Manipal University (Final Year)
 - 🌐 [ganeshchoudhary.me](https://ganeshchoudhary.me)
 
 ### 🏆 Certifications
@@ -44,14 +44,14 @@
 <td width="50%" valign="top">
 
 ### 💡 What I Do
-- 🛠️ Build resilient **VoIP infrastructures** (Asterisk, VICIdial)
-- ☁️ Architect **multi-cloud** solutions (AWS + OCI)
-- 🤖 Automate everything with **Ansible & Docker**
-- 🐧 Deep **Linux** system engineering & security hardening
-- 📊 Monitor, troubleshoot & optimize at scale
+- 🌐 Scale & manage **60+ multi-cloud servers** (Hetzner ARM64 & DigitalOcean)
+- 📊 Centralize **observability** (Prometheus, Grafana 9 dashboards, Loki) with 0 firing alerts
+- 🐳 Containerize legacy stacks via **Docker Compose** with zero downtime
+- 🤖 Automate infrastructure & access using **Ansible & Python CLI tools**
+- 🐧 Deep **Linux system engineering**, security hardening & telephony (Asterisk)
 
 ### 📊 Daily Stack
-`Asterisk` &nbsp; `VICIdial` &nbsp; `Linux` &nbsp; `AWS` &nbsp; `OCI` &nbsp; `Ansible` &nbsp; `Docker`
+`Linux` &nbsp; `Hetzner` &nbsp; `DigitalOcean` &nbsp; `AWS` &nbsp; `Docker` &nbsp; `Ansible` &nbsp; `Prometheus` &nbsp; `Grafana` &nbsp; `MariaDB`
 
 </td>
 </tr>
@@ -61,26 +61,26 @@
 
 ## 🛠️ Tech Arsenal
 
-### 🐧 Operating Systems & Infrastructure
-![CentOS](https://img.shields.io/badge/CentOS-002260?style=for-the-badge&logo=centos&logoColor=white) ![RHEL](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### 🐧 Operating Systems & Architecture
+![CentOS](https://img.shields.io/badge/CentOS-002260?style=for-the-badge&logo=centos&logoColor=white) ![RHEL](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![ARM64](https://img.shields.io/badge/ARM64%20/%20aarch64-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 
-### 🖥️ Virtualization
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white) ![VMware Workstation](https://img.shields.io/badge/VMware%20Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+### ☁️ Cloud & Multi-Tenant Infrastructure
+![Hetzner Cloud](https://img.shields.io/badge/Hetzner_Cloud-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### 📊 Observability & Telemetry
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Alertmanager](https://img.shields.io/badge/Alertmanager-FFA500?style=for-the-badge&logo=prometheus&logoColor=white) ![Loki](https://img.shields.io/badge/Grafana%20Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### 📞 VoIP & Telephony
-![Asterisk](https://img.shields.io/badge/Asterisk-F47721?style=for-the-badge&logo=asterisk&logoColor=white) ![VICIdial](https://img.shields.io/badge/VICIdial-DC143C?style=for-the-badge&logo=phone&logoColor=white) ![FreeSWITCH](https://img.shields.io/badge/FreeSWITCH-00A859?style=for-the-badge&logo=freeswitch&logoColor=white) ![SIP/RTP/WebRTC](https://img.shields.io/badge/SIP%20%7C%20RTP%20%7C%20WebRTC-0078D7?style=for-the-badge&logo=cisco&logoColor=white) ![PRI E1/T1](https://img.shields.io/badge/PRI%20E1%2FT1-444444?style=for-the-badge&logo=cisco&logoColor=white)
+### 🤖 DevOps, Containers & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🗄️ Web Servers & Databases
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
-### 💻 Scripting & Automation
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 📞 Telephony & Security
+![Asterisk](https://img.shields.io/badge/Asterisk-F47721?style=for-the-badge&logo=asterisk&logoColor=white) ![VICIdial](https://img.shields.io/badge/VICIdial-DC143C?style=for-the-badge&logo=phone&logoColor=white) ![UFW](https://img.shields.io/badge/UFW-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Fail2ban](https://img.shields.io/badge/Fail2ban-000000?style=for-the-badge&logo=linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![tcpdump](https://img.shields.io/badge/tcpdump-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-### 🔧 Monitoring & Security
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![tcpdump](https://img.shields.io/badge/tcpdump-000000?style=for-the-badge&logo=linux&logoColor=white) ![SELinux](https://img.shields.io/badge/SELinux-CC0000?style=for-the-badge&logo=redhat&logoColor=white) ![Firewalld/iptables](https://img.shields.io/badge/Firewalld%20%7C%20iptables-FF6600?style=for-the-badge&logo=linux&logoColor=white)
+### 🔬 Currently Exploring & Learning
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
@@ -97,19 +97,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganesh928k&bg_color=0d1117&color=00ff41&line=00d9ff&point=ff6b35&area=true&hide_border=true" />
-</div>
-
----
-
-## 📊 GitHub Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganesh928k&theme=github_dark&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ganesh928k&theme=github_dark&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganesh928k&theme=github_dark&hide_border=true" />
-</div>
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganesh928k&theme=github_dark&hide_border=true" />
 </div>
 
 ---
@@ -135,32 +122,48 @@
 
 ## 💼 Professional Experience
 
-### 🏢 Avyukta Intellicall Consulting Pvt. Ltd. &nbsp;·&nbsp; Jaipur, Rajasthan, India
-> **Jan 2023 – Present &nbsp;|&nbsp; 3+ Years &nbsp;|&nbsp; Promoted twice within 3 years**
-
-<br/>
+### 🏢 Lynx Solutions &nbsp;·&nbsp; Remote
+> **Aug 2026 – Present &nbsp;|&nbsp; DevOps Engineer**
 
 <details open>
-<summary>🟢 &nbsp;<b>L-2 DevOps Engineer / Infrastructure Lead</b> &nbsp;·&nbsp; Feb 2026 – Present</summary>
+<summary>🟢 &nbsp;<b>DevOps Engineer</b> &nbsp;·&nbsp; Aug 2026 – Present</summary>
 <br/>
 <ul>
-<li>🌐 Overseeing <b>multi-cloud architecture</b> (AWS + OCI) for scalable telephony workloads</li>
-<li>🤖 Driving <b>Ansible automation</b> and <b>Docker containerization</b> across production systems</li>
-<li>🤝 Coordinating SLA compliance with cross-functional teams, carriers & vendors</li>
-<li>☁️ Integrating cloud-native technologies to minimize manual operational overhead</li>
+<li>🌐 Scaled fleet from 0 to <b>61 active multi-cloud servers</b> in 29 days (35 Hetzner ARM64/AMD + 26 DigitalOcean) hosting 160+ live ERP sites</li>
+<li>📊 Built centralized observability (<b>Prometheus, Grafana 9-dashboard suite, Loki, Promtail</b>) driving alerts from 24 to <b>0 firing alerts fleet-wide</b></li>
+<li>🐳 Containerized legacy Frappe v11 monoliths into <b>10-container Docker Compose</b> fleets on Hetzner ARM64 (<35 min cutover, 100% table parity)</li>
+<li>⚡ Engineered direct <b>in-memory database streaming pipelines</b> (33–35 GB raw SQL) bypassing intermediate disk bloat</li>
+<li>🛠️ Developed <code>grant_developer_access.py</code> & <code>manage_access</code> CLI tools with automated ED25519 generation & zero-lockout tests</li>
+<li>🛡️ Rescued production nodes from severe server lockups (load 173 → 4.27) and recovered <b>224 GB storage</b> on locked DB nodes</li>
+<li>💰 Executed FinOps audits saving <b>$1,535+/year</b> via zombie server decommissioning and storage reclamation (+48 GB purged)</li>
 </ul>
 </details>
 
 <br/>
 
-<details open>
+### 🏢 Avyukta Intellicall Consulting Pvt. Ltd. &nbsp;·&nbsp; Jaipur, Rajasthan, India
+> **Jan 2023 – Aug 2026 &nbsp;|&nbsp; 3.5+ Years &nbsp;|&nbsp; Promoted twice**
+
+<details>
+<summary>🟢 &nbsp;<b>L-2 DevOps Engineer / Infrastructure Lead</b> &nbsp;·&nbsp; Feb 2026 – Aug 2026</summary>
+<br/>
+<ul>
+<li>🌐 Managed multi-cloud architecture (AWS + OCI) for scalable telephony workloads at 99.9% uptime</li>
+<li>🤖 Automated provisioning across 20+ servers via <b>Ansible playbooks</b> and <b>Docker containerization</b></li>
+<li>🤝 Coordinated SLA compliance with cross-functional teams, carriers & telecom vendors</li>
+<li>📉 Cut mean time to resolution (MTTR) by 45% using cloud-native monitoring</li>
+</ul>
+</details>
+
+<br/>
+
+<details>
 <summary>🔵 &nbsp;<b>Linux System and VoIP Engineer</b> &nbsp;·&nbsp; Jan 2024 – Jan 2026</summary>
 <br/>
 <ul>
-<li>📞 Architected <b>Asterisk PBX & VICIdial</b> contact center — <b>10,000+ calls/day</b> at <b>99.9% uptime</b></li>
+<li>📞 Architected <b>Asterisk PBX & VICIdial</b> contact center — <b>10,000+ calls/day</b> at <b>99.9% uptime</b> (2023 – 2026)</li>
 <li>🔗 Engineered <b>SIP / PRI (E1) / GSM</b> gateway integrations — reduced latency by <b>25%</b></li>
 <li>🤖 Automated deployments via <b>Bash & Ansible</b> — slashed deployment time by <b>60%</b></li>
-<li>📊 Built real-time monitoring dashboards — <b>40% faster</b> incident response, <b>35% less</b> downtime</li>
 <li>🛡️ Implemented Linux security hardening — <b>zero security breaches</b> recorded</li>
 <li>💾 Established disaster recovery framework with <b>RPO of 1 hour</b></li>
 <li>🕐 Maintained <b>24/7 on-call</b> rotation for critical production systems</li>
@@ -169,43 +172,39 @@
 
 <br/>
 
-<details open>
+<details>
 <summary>⚪ &nbsp;<b>Intern — Client Support & System Administration</b> &nbsp;·&nbsp; Jan 2023 – Dec 2023</summary>
 <br/>
 <ul>
 <li>🐧 Managed Linux server environments across <b>CentOS, AlmaLinux, openSUSE, RHEL, Ubuntu</b></li>
 <li>🎫 Resolved customer support tickets and authored <b>troubleshooting SOPs</b></li>
 <li>⚙️ Automated recurring tasks using <b>Bash scripts</b></li>
-<li>👥 Handled user account management, access control & web server configurations</li>
-<li>📡 Participated in network monitoring and on-call emergency response</li>
+<li>👥 Administered user account management, access control & web server configurations</li>
 </ul>
 </details>
-
-<br/>
-
-> ⭐ **Intern → VoIP Engineer → L-2 DevOps** in 3 years &nbsp;|&nbsp; 99.9% uptime &nbsp;|&nbsp; Zero breaches &nbsp;|&nbsp; 35% downtime reduction
 
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
-|---------|-------------|-------|
-| 📞 **VICIdial Cluster Deployment** | Multi-node production contact center — distributed Asterisk servers, shared MySQL backends, load-balanced web interfaces across AlmaLinux / CentOS / Rocky Linux | `Asterisk` `VICIdial` `MySQL` `Linux` |
-| 🐧 **Linux From Scratch (LFS)** | Built a complete Linux OS from source — kernel compilation, boot process, manual package management | `C` `Linux Kernel` `Bash` |
-| ☁️ **Multi-Cloud Infrastructure** | Hybrid cloud management spanning AWS & OCI for production telephony workloads | `AWS` `OCI` `Ansible` `Docker` |
-| 🤖 **Infrastructure Automation Suite** | Bash & Ansible playbook collection for provisioning, deployment & monitoring automation | `Bash` `Python` `Ansible` |
+|---|---|---|
+| 📊 **Enterprise Multi-Cloud Observability Suite** | Centralized Prometheus, Alertmanager, Grafana (9 dashboards), Loki & Promtail across 61 cloud servers — driving alert count from 24 to 0 | `Prometheus` `Grafana` `Loki` `Alertmanager` `Python` |
+| 🐳 **Legacy Monolith Docker Containerization** | 10-container Docker Compose architecture on Hetzner ARM64 with streamed database ingestion, Let's Encrypt SSL, and multi-tenant memory shielding | `Docker` `Docker Compose` `MariaDB` `Nginx` `Let's Encrypt` |
+| 🛠️ **Universal Developer Access Engine** | Automated CLI engine for role-based SSH access with automated ED25519 generation, DNS routing, and zero-lockout connection testing | `Python` `SSH` `ED25519` `Linux` |
+| 📞 **VICIdial Cluster Deployment (2023 – 2026)** | Multi-node production contact center — distributed Asterisk servers, shared MySQL backends, load-balanced web interfaces | `Asterisk` `VICIdial` `MySQL` `Linux` |
+| 🐧 **Linux From Scratch (LFS)** | Built a complete Linux OS from source — kernel compilation, boot process, manual package management | `C` `Linux Kernel` `Bash` `Grub2` |
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| 🎓 **MCA – Cloud Computing** | Manipal University Jaipur | 2025 – Present | — |
+| Degree | Institution | Year | Details |
+|---|---|---|---|
+| 🎓 **MCA – Cloud Computing** | Manipal University Jaipur | 2025 – 2027 | **Final Year** |
 | 🏅 **B.Voc – IT / Computing Skills** | Bharatiya Skill Development University | 2022 – 2025 | **CGPA: 9.81 / 10** |
-| 📘 **Bachelor of Science** | Singhaniya University | 2019 – 2022 | — |
-| 📗 **Senior Secondary (RBSE)** | — | 2016 – 2018 | — |
+| 📘 **Bachelor of Science** | Singhaniya University | 2019 – 2022 | Completed |
+| 📗 **Senior Secondary (RBSE)** | — | 2016 – 2018 | Completed |
 
 ---
 
